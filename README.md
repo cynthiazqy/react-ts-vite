@@ -1,5 +1,13 @@
 # React + TypeScript + Vite
 
+## 环境准备
+
+- Node.js v20.11.1
+- React v18.3.1
+- React-dom v18.3.1
+- @types/react v18.3.18
+- @types/react-dom v18.3.5
+
 ## 安装依赖
 
 ```
