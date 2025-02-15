@@ -64,3 +64,8 @@ npm run check
 or
 yarn check
 ```
+
+## 分支管理
+
+- main 主分支 一个基于 react18 + ts + vite + antd 的项目框架, 使用 biome + husky + lint-staged 进行代码检查
+- dev 开发分支
