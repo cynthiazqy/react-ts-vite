@@ -7,6 +7,7 @@
 - React-dom v18.3.1
 - @types/react v18.3.18
 - @types/react-dom v18.3.5
+- antd v5.23.2
 
 ## 安装依赖
 
