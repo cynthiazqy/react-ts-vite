@@ -1,0 +1,25 @@
+@use '/src/styles/variables' as *;
+
+.layout {
+	min-height: 100vh;
+}
+
+// .logo {
+// 	float: left;
+// 	width: $logo-width;
+// 	height: $logo-height;
+// 	margin: $margin-base $padding-base $margin-base 0;
+// 	background: $background-opacity;
+// }
+
+.home-page,
+.about-page {
+	background: $white;
+	padding: $padding-base;
+	min-height: $min-page-height;
+	border-radius: 2px;
+}
+
+.card {
+	padding: 2em;
+}
