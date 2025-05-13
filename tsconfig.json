@@ -1,7 +1,14 @@
 {
 	"compilerOptions": {
 		"strict": true,
-		"forceConsistentCasingInFileNames": true
+		"forceConsistentCasingInFileNames": true,
+		"baseUrl": ".",
+		"paths": {
+			"@/*": ["src/*"],
+			"@components/*": ["src/components/*"],
+			"@pages/*": ["src/pages/*"],
+			"@utils/*": ["src/utils/*"]
+		}
 	},
 	"files": [],
 	"references": [
